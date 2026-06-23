@@ -1,0 +1,128 @@
+[
+    {
+        "order_id": "O1001",
+        "purchase_date": "2026-06-15",
+        "product_type": "physical",
+        "delivered": true,
+        "clearance": false
+    },
+    {
+        "order_id": "O1002",
+        "purchase_date": "2026-01-10",
+        "product_type": "physical",
+        "delivered": true,
+        "clearance": false
+    },
+    {
+        "order_id": "O1003",
+        "purchase_date": "2026-06-18",
+        "product_type": "digital",
+        "delivered": true,
+        "clearance": false
+    },
+    {
+        "order_id": "O1004",
+        "purchase_date": "2026-06-20",
+        "product_type": "physical",
+        "delivered": false,
+        "clearance": false
+    },
+    {
+        "order_id": "O1005",
+        "purchase_date": "2026-06-12",
+        "product_type": "physical",
+        "delivered": true,
+        "clearance": true
+    },
+    {
+        "order_id": "O1006",
+        "purchase_date": "2026-06-14",
+        "product_type": "physical",
+        "delivered": true,
+        "clearance": false
+    },
+    {
+        "order_id": "O1007",
+        "purchase_date": "2026-06-08",
+        "product_type": "physical",
+        "delivered": true,
+        "clearance": false
+    },
+    {
+        "order_id": "O1008",
+        "purchase_date": "2026-06-05",
+        "product_type": "physical",
+        "delivered": true,
+        "clearance": false
+    },
+    {
+        "order_id": "O1009",
+        "purchase_date": "2026-05-28",
+        "product_type": "physical",
+        "delivered": true,
+        "clearance": false
+    },
+    {
+        "order_id": "O1010",
+        "purchase_date": "2026-06-01",
+        "product_type": "physical",
+        "delivered": true,
+        "clearance": false
+    },
+    {
+        "order_id": "O1011",
+        "purchase_date": "2026-06-11",
+        "product_type": "digital",
+        "delivered": true,
+        "clearance": false
+    },
+    {
+        "order_id": "O1012",
+        "purchase_date": "2026-06-09",
+        "product_type": "physical",
+        "delivered": true,
+        "clearance": false
+    },
+    {
+        "order_id": "O1013",
+        "purchase_date": "2026-02-01",
+        "product_type": "physical",
+        "delivered": true,
+        "clearance": false
+    },
+    {
+        "order_id": "O1014",
+        "purchase_date": "2026-06-17",
+        "product_type": "physical",
+        "delivered": false,
+        "clearance": false
+    },
+    {
+        "order_id": "O1015",
+        "purchase_date": "2026-06-16",
+        "product_type": "physical",
+        "delivered": true,
+        "clearance": true
+    },
+    {
+        "order_id": "O1016",
+        "purchase_date": "2026-06-13",
+        "product_type": "physical",
+        "delivered": true,
+        "clearance": false
+    },
+    {
+        "order_id": "O1017",
+        "purchase_date": "2026-06-10",
+        "product_type": "physical",
+        "delivered": true,
+        "clearance": false
+    },
+    {
+        "order_id": "O1018",
+        "purchase_date": "2026-06-07",
+        "product_type": "physical",
+        "delivered": true,
+        "clearance": false
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "customer_id": "C001",
+        "name": "John Doe",
+        "orders": [
+            "O1001",
+            "O1002"
+        ]
+    },
+    {
+        "customer_id": "C002",
+        "name": "Sarah Smith",
+        "orders": [
+            "O1003"
+        ]
+    },
+    {
+        "customer_id": "C003",
+        "name": "Michael Brown",
+        "orders": [
+            "O1004",
+            "O1005"
+        ]
+    },
+    {
+        "customer_id": "C004",
+        "name": "Emily Davis",
+        "orders": [
+            "O1006"
+        ]
+    },
+    {
+        "customer_id": "C005",
+        "name": "David Wilson",
+        "orders": [
+            "O1007"
+        ]
+    },
+    {
+        "customer_id": "C006",
+        "name": "Olivia Moore",
+        "orders": [
+            "O1008",
+            "O1009"
+        ]
+    },
+    {
+        "customer_id": "C007",
+        "name": "James Taylor",
+        "orders": [
+            "O1010"
+        ]
+    },
+    {
+        "customer_id": "C008",
+        "name": "Sophia Anderson",
+        "orders": [
+            "O1011"
+        ]
+    },
+    {
+        "customer_id": "C009",
+        "name": "Daniel Thomas",
+        "orders": [
+            "O1012"
+        ]
+    },
+    {
+        "customer_id": "C010",
+        "name": "Ava Jackson",
+        "orders": [
+            "O1013"
+        ]
+    },
+    {
+        "customer_id": "C011",
+        "name": "William White",
+        "orders": [
+            "O1014"
+        ]
+    },
+    {
+        "customer_id": "C012",
+        "name": "Mia Harris",
+        "orders": [
+            "O1015"
+        ]
+    },
+    {
+        "customer_id": "C013",
+        "name": "Benjamin Martin",
+        "orders": [
+            "O1016"
+        ]
+    },
+    {
+        "customer_id": "C014",
+        "name": "Charlotte Thompson",
+        "orders": [
+            "O1017"
+        ]
+    },
+    {
+        "customer_id": "C015",
+        "name": "Lucas Garcia",
+        "orders": [
+            "O1018"
+        ]
+    }
+]
